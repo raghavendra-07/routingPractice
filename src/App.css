@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Write your CSS code here */
+.main-con {
+  border: 2px solid #12022f;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.app-con {
+  margin: 50px;
+}
+
+.responsive-con {
+  display: flex;
+  flex-direction: column;
+  border: 2px solid #551e53;
+  border-radius: 12px;
+  padding: 20px;
+  width: 100vw;
+}

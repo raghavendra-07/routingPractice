@@ -1,0 +1,12 @@
+/* Write your CSS code here */
+.contact-con {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.contact-head {
+  color: #551e53;
+  font-family: 'Roboto';
+}

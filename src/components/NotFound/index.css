@@ -1,0 +1,13 @@
+/* Write your CSS code here */
+.notFound-con {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.head {
+  font-family: 'Roboto';
+  color: #551e53;
+  font-size: 62px;
+}
